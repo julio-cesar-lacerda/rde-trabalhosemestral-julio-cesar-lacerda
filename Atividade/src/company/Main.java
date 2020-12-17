@@ -10,7 +10,7 @@ public class Main {
         Mecanica mecanica = new Mecanica("Teste");
         mecanica.cadastraVeiculo(0003,"Fda112",1999,"AFA","cesar");
         mecanica.cadastraVeiculo("Fda11",1999,"AFA","cesar");
-        mecanica.cadastraVeiculo(0002,"Fda112",1999,"AFA","cesar");
+        mecanica.cadastraVeiculo(0004,"Fda112",1999,"AFA","cesar");
 //        mecanica.cadastraServico(carro);
 
         System.out.println(mecanica);
